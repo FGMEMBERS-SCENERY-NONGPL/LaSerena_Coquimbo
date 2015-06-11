@@ -1,0 +1,35 @@
+LA SERENA Y COQUIMBO
+--------------------
+
+Dos íconos arquitectónicos de Chile son El Faro Monumental de La Serena y La Cruz del Tercer Milenio, en Coquimbo. Este addon contiene ambas estructuras, incluida una porción del terreno circundante al Faro, y la Avenida Francisco de Aguirre, que conduce al Faro en la orilla del mar.
+
+Para instalar y visualizar correctamente los modelos se debe tener previamente instalado el escenario w080s30. Además para una mejor integración de los modelos con el terreno se recomienda tener instalado el set de texturas "FotoTexturas_FGFS" disponibles en http://www.grafikavirtual.com/fgfs.
+
+INSTALACIÓN
+-----------
+
+1.- Copie la carpeta "LaSerena_Coquimbo" y todo su contenido en el directorio "data/Models".
+2.- Copie y reemplace el archivo "1773314.stg" en la carpeta "data/Scenery/Terrain/w080s30/w072s30".
+
+
+VISUALIZACIÓN
+-------------
+
+Para realizar un reconocimiento visual de los modelos, incie vuelo desde SCSE, pista 29. En cuanto haya despegado, verá la ciudad de La Serena, atravesada por el río.  Una vez sobre la ciudad realice un giro de unos 15 grados a la izquierda, y ya debería estar sobre la avenida Francisco Aguirre en dirección al mar, al final de la cual se ve el Faro.
+
+Una vez en el Faro, realice un giro de 90 grados hacia la izquierda y bordee la costa en dirección sur, hasta llegar a la ciudad de Coquimbo, que termina en un itsmo que se adentra en el mar, en cuyo centro está la Cruz.
+
+NOTAS
+-----
+
+1.- La ubicación geográfica del Faro no es exacta. Ha sido modificada para que su visualización en FG sea similar a la realidad, teniendo en cuenta otras referencias visuales tales como costas, ríos, ciudad, etc.
+2.- El Faro y la Cruz han sido desarrollados a partir de modelos pre-existentes en la Galería 3D de Google.
+3.- Para ver mayor información de las estructuras, puede visitar los siguientes enlaces:
+
+FARO: http://es.wikipedia.org/wiki/Faro_Monumental_de_La_Serena
+CRUZ: http://es.wikipedia.org/wiki/Cruz_del_Tercer_Milenio
+
+Horacio Contreras
+...para toda la comunidad de Flightgear.
+
+Más addons: http://www.grafikavirtual.com/fgfs
